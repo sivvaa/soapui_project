@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 731
+Size: 0
+Timestamp: Wed Jan 31 22:18:11 GMT 2018
+TestStep: Groovy Script
+Error:java.lang.NullPointerException
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException
+error at line: 6

@@ -1,0 +1,10 @@
+{
+    "journey1":{
+            "serviceUrl": "http://localhost:8080/url",
+            "key": "value1"
+            },
+    "journey2":{
+            "serviceUrl": "http://localhost:8080/url",
+            "key": "value2"
+            }
+}
